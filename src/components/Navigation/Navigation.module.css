@@ -1,0 +1,11 @@
+.nav{
+    display: flex;
+    color: black;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.isActive{
+    color: orange;
+}
