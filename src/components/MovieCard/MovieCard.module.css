@@ -1,0 +1,18 @@
+.nav{
+    display: flex;
+    color: black;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.isActive{
+    color: orange;
+}
+.wrapperMain{
+    display: flex;
+}
+.wrapper{
+  
+    width: 100%;
+}
